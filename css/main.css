@@ -1,0 +1,58 @@
+.topo{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    width: 1024px;
+    height: 200px;
+    background-color: #a9a9a9;
+}
+.logo{
+    position: absolute;
+    left: 0;
+    top: 10px;
+    width: 250px;
+    height: 200px;
+    background-color: #a9a9a9;
+    background-image: url(../images/imgs/logo.png);
+    background-repeat: no-repeat;
+}
+.menu_esquerdo{
+    position: absolute;
+    left: 0px;
+    top: 200px;
+    width: 250px;
+    height: 400px;
+    background-color: #a9a9a9;
+}
+.centro{
+    position: absolute;
+    left: 250px;
+    top:210px;
+    width: 782px;
+    height: 389px;
+    background: #a9a9a9;
+}
+.rodape{
+    position:absolute;
+    left: 0;
+    top:599px;
+    width: 1034px;
+    height: 30px;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.tabela{
+    width: 100%;
+    border-left: 1px;
+    color:#000000;
+}
+.borda{
+    text-align: left;
+    border-bottom: 1px solid;
+}
+.figura{
+    height: 100%;
+    left: 300px;
+}
